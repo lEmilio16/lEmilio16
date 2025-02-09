@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align='Center'>Hola :v: Soy Emilio / lEmilio16 </h1>
 
-<!--
-**lEmilio16/lEmilio16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='Left'>
+  <a href="mailto:gomezgonzalezluisemilio188@gmail.com" target="Blank"> <img align="Center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='@lEmilio16' /></a>
+  <a> <img align="Center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='@lEmilio16'/a></a>
+</p>
 
-Here are some ideas to get you started:
+<h2>Sobre mi :smiley: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="Justify">
+  :iphone: Ingeniero en Sistemas Computacionales <br> <br>
+  :school_satchel: ¡Hola! Soy un estudiante de la carrera de Ingeniería en Sistemas Computacionales, con experiencia en el desarrollo de proyectos básicos y una pasión por la tecnología y la creatividad.<br> <br>
+  :mortar_board: Durante mi formación, he tenido la oportunidad de trabajar en diversos proyectos que me han permitido adquirir experiencia en el uso de múltiples lenguajes de programación, herramientas y frameworks. <br> <br>
+  :raising_hand: Mi enfoque principal es ofrecer soluciones funcionales, eficientes y creativas para cada desafío que se me presenta. <br> <br>
+  :email: Contacto: gomezgonzalezluisemilio188@gmail.com
+</p>
+
+<br>
+
+<h2>Tegnologia conocidas :computer: </h2>
+
+<p align="Center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,flutter,dart,kotlin,angular,ts,postgres,firebase,vscode,eclipse,pycharm,androidstudio,visualstudio,figma,bootstrap,git,github&perline=10"/>
+  </a>
+</p>
