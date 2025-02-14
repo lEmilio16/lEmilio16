@@ -24,3 +24,6 @@
     <img src="https://skillicons.dev/icons?i=java,py,html,css,flutter,dart,kotlin,angular,ts,postgres,firebase,vscode,eclipse,pycharm,androidstudio,visualstudio,figma,bootstrap,git,github&perline=10"/>
   </a>
 </p>
+
+<h3>Comprobando algunas cosas<h3>
+
